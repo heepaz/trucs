@@ -1,0 +1,12 @@
+== trucs
+Recull d'scripts útils per fer tasques senzilles. Cal revisar el codi font
+abans de fer-los servir SEMPRE.
+
+.*Continguts*
+* Win2Lin.sh: canvia el final de línia de windows pel de unix a tota
+   la carpeta.
+* Canviar_codificació.sh: canvia la codificació de tota la carpeta a UTF8.
+* substituir_en_fitxer.sh: canvia una cadena per una altra en tots els fitxers
+   d'una mateixa carpeta.
+
+
